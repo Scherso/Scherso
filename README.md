@@ -1,5 +1,5 @@
 - learning java
-- Disc: Salmon#8422
+- Disc: Salmon#8122
 
 <!---
 Scherso/Scherso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
