@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Scherso
-- 👀 I’m interested in Koltin and Java
-- 🌱 I’m currently learning Java
-- 📫 How to reach me Salmon#0005
+- learning java
+- Disc: Salmon#8422
 
 <!---
 Scherso/Scherso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
