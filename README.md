@@ -7,7 +7,7 @@
 <a href="https://www.java.com/en/download/help/whatis_java.html"><img width="30" height="30" src="https://github.com/Scherso/Scherso/blob/main/java-seeklogo.com.svg" /></a>       <a href="https://www.gnu.org/software/bash/"><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" /></a> 
 ----
 
-#### What IDE's do I use?
+#### What IDE's do I use? (Click!)
 
 <a href="https://www.jetbrains.com/idea/"><code><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"> **IntelliJ IDEA**</code> 
  
