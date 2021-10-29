@@ -6,7 +6,7 @@
 <a href="https://www.gnu.org/software/bash/"><img width="16" height="16" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" /></a>
 Bash
 
-<a href="https://www.java.com/en/download/help/whatis_java.html"><img width="16" height="16" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" /></a>
+<a href="https://www.java.com/en/download/help/whatis_java.html"><img width="16" height="16" src="https://github.com/Scherso/Scherso/blob/main/java-seeklogo.com.svg" /></a>
 Java
 
 -------
