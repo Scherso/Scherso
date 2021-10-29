@@ -1,5 +1,11 @@
-### Hey There, 
-#### I'm a highschool student and aspiring developer learning Java and Shell
+### Hey There, I'm a highschool student and aspiring developer
+
+-------
+#### Learning
+
+Bash
+
+Java
 
 -------
 
