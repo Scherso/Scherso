@@ -8,7 +8,7 @@ I'm a highschool student and aspiring developer learning Java and Shell
 
 #### Where you can reach me
 
-![alt text] (<a href="https://discordapp.com/users/492816296103378948"><img width="30" height="30" src="https://github.com/Scherso/Scherso/blob/main/discord.svg" /></a> 
+<a href="https://discordapp.com/users/492816296103378948"><img width="30" height="30" src="https://github.com/Scherso/Scherso/blob/main/discord.svg" /></a> 
 
 ------- 
 
