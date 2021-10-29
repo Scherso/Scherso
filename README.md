@@ -14,7 +14,7 @@
 ----
  
  
-  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ ‍  ‍  ‍   ‍  ‍  ‍  ‍  ‍  ‍ ![Stats](https://github-readme-stats.vercel.app/api?username=Scherso&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515)
+  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ ‍  ‍  ‍   ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ ![Stats](https://github-readme-stats.vercel.app/api?username=Scherso&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515)
 
 <!---
 Scherso/Scherso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
