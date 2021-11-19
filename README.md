@@ -13,7 +13,7 @@
 
 <a href="https://www.lunarvim.org/"><code><img height="30" src="https://www.lunarvim.org/assets/lunarvim_logo.png"> **Lunar Vim**</code> 
 
-<a href="https://code.visualstudio.com/"><code><img height="30" src="https://en.m.wikipedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg"> **Visual Studio Code**</code>
+<a href="https://code.visualstudio.com/"><code><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"> **Visual Studio Code**</code>
  
 --- 
  
