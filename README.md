@@ -11,11 +11,10 @@
 </a>
 
 ------
-<br />
 Hello, my name is Sam, and I'm an aspiring developer in the United States
-<br />
-<br />
+
 Feel free to add me on any of the socials linked, (Click the icons!)
+
 <br /> 
 
 #### What I Use:
@@ -30,11 +29,9 @@ Feel free to add me on any of the socials linked, (Click the icons!)
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Scherso&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
 </a>
 
-<a href="https://www.jetbrains.com/idea/"><code><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"> **IntelliJ IDEA**</code> 
-
-<a href="https://www.lunarvim.org/"><code><img height="30" src="https://www.lunarvim.org/assets/lunarvim_logo.png"> **Lunar Vim**</code> 
-
-<a href="https://code.visualstudio.com/"><code><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"> **Visual Studio Code**</code>
+<a href="https://www.jetbrains.com/idea/"><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg">  
+    
+<a href="https://code.visualstudio.com/"><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
  
 ---- 
 <!---
