@@ -17,7 +17,7 @@ Feel free to add me on any of the socials linked, (Click the icons!)
 
 <br /> 
 
-#### What I Use:
+### What programming languages am I learning?
 
 <a href="https://www.java.com/en/download/help/whatis_java.html"><img width="30" height="30" src="https://github.com/Scherso/Scherso/blob/main/assets/java-seeklogo.com.svg" /></a>
 <a href="https://www.gnu.org/software/bash/"><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" /></a> 
@@ -29,9 +29,9 @@ Feel free to add me on any of the socials linked, (Click the icons!)
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Scherso&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
 </a>
 
-<a href="https://www.jetbrains.com/idea/"><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg">  
-    
-<a href="https://code.visualstudio.com/"><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
+### What IDEs do I use?
+
+<a href="https://www.jetbrains.com/idea/"><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg">  <a href="https://code.visualstudio.com/"><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
  
 ---- 
 <!---
