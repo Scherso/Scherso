@@ -24,7 +24,7 @@
 <a href="https://www.java.com/en/download/help/whatis_java.html"><img width="30" height="30" src="https://github.com/Scherso/Scherso/blob/main/assets/java-seeklogo.com.svg" /></a>
 <a href="https://www.gnu.org/software/bash/"><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" /></a> 
 <a href="https://javascript.com/"><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a> 
-
+<a href="https://www.typescriptlang.org/"><img width="30" height="30" src="https://github.com/Scherso/Scherso/blob/main/assets/ts-logo-512.png" /></a> 
 ----
 
 <a href="https://github.com/Scherso/Scherso">
