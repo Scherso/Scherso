@@ -75,7 +75,16 @@
 
 <br />
 
----- 
+----
+
+<br />
+<br />
+
+<a href="https://www.freebsd.org/">
+     <img align="left" alt="FreeBSD" width"25px" height="25"
+          src="https://github.com/Scherso/Scherso/blob/main/assets/1AA847E2-8D2C-41D9-B842-2DC6107374F9.png">
+</a>
+
 <!---
 Scherso/Scherso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
