@@ -1,4 +1,4 @@
-<!-- Thanks to LlamaLad7 and Koding dev for the inspiration! https://github.com/LlamaLad7/LlamaLad7 https://github.com/KodingDev -->
+<!--- Thanks to LlamaLad7 and Koding dev for the inspiration! https://github.com/LlamaLad7/LlamaLad7 https://github.com/KodingDev --->
 
 <img 
      align="left" alt="Avatar" width="200px" 
@@ -7,7 +7,7 @@
 
 ### 👋 Hey there, I'm a highschool student and aspiring developer
 
-<!-- Drawing the Spotify and Discord logos behind the page break, href is a link to the corresponding links. -->
+<!--- Drawing the Spotify and Discord logos behind the page break, href is a link to the corresponding links. --->
 
 <a href="https://discordapp.com/users/492816296103378948">
     <img align="left" alt="Discord" width="25px" height="25" 
@@ -22,14 +22,14 @@
 ------
 
 #### Hello, my name is Sam, and I'm an aspiring developer in the United States
-
+<!--- I use FreeBSD, btw. --->
 #### Feel free to add me on any of the socials linked
 
 <br /> 
 
 ### What programming languages am I learning?
 
-<!-- This is a bunch of images with their corresponding links, if there is a more organized way to do this dm me pls, Salmon#2355 -->
+<!--- This is a bunch of images with their corresponding links, if there is a more organized way to do this dm me pls, Salmon#2355 --->
 
 <a href="https://www.java.com/en/download/help/whatis_java.html">
     <img align="left" alt="Java" width="30px" height="30" 
