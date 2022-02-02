@@ -1,7 +1,9 @@
 <!-- Thanks to LlamaLad7 and Koding dev for the inspiration! https://github.com/LlamaLad7/LlamaLad7 https://github.com/KodingDev -->
 
-< img align="left" alt="Avatar" width="200px" src="https://github.com/Scherso/Scherso/blob/main/assets/08A59807-51EF-4817-B7F2-D5B2E1690D0A.png" 
-     />
+<img 
+     align="left" alt="Avatar" width="200px" 
+          src="https://github.com/Scherso/Scherso/blob/main/assets/08A59807-51EF-4817-B7F2-D5B2E1690D0A.png" 
+/>
 
 ### 👋 Hey there, I'm a highschool student and aspiring developer
 
