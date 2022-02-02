@@ -21,8 +21,8 @@
 
 ------
 
-> #### Hello, my name is Sam, and I'm an aspiring developer in the United States
-> #### Feel free to add me on any of the socials linked
+ #### Hello, my name is Sam, and I'm an aspiring developer in the United States
+ #### Feel free to add me on any of the socials linked
 
 <!--- I use FreeBSD, btw. --->
 
