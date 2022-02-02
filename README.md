@@ -10,19 +10,19 @@
 <!--- Drawing the Spotify and Discord logos behind the page break, href is a link to the corresponding links. --->
 
 <a href="https://discordapp.com/users/492816296103378948">
-    <img align="left" alt="Discord" width="25px" height="25" 
-         src="https://github.com/Scherso/Scherso/blob/main/assets/discord.svg">
+     <img align="left" alt="Discord"
+          src="https://img.shields.io/badge/-Salmon%232355-5865F2?&style=flat-square&logo=discord&logoColor=white">
 </a>
 
 <a href="https://open.spotify.com/user/7xiu2hms0kghfyn9b2iw91dms?si=QyYfNVUVQQ-E89r2sDZXHA">
-    <img align="left" alt="Spotify" width="25px" height="25" 
-         src="https://github.com/Scherso/Scherso/blob/main/assets/spotify.svg">
+    <img align="left" alt="Spotify" 
+         src="https://img.shields.io/badge/-sam-1DB954?&style=flat-square&logo=spotify&logoColor=white">
 </a>
 
 ------
 
- #### Hello, my name is Sam, and I'm an aspiring developer in the United States
- #### Feel free to add me on any of the socials linked
+#### Hello, my name is Sam, and I'm an aspiring developer in the United States
+#### Feel free to add me on any of the socials linked
 
 <!--- I use FreeBSD, btw. --->
 
