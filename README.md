@@ -2,7 +2,7 @@
 
 <img 
      align="left" alt="Avatar" width="200px" 
-          src="https://github.com/Scherso/Scherso/blob/main/assets/08A59807-51EF-4817-B7F2-D5B2E1690D0A.png" 
+          src="https://github.com/Scherso/Scherso/blob/main/assets/Scherso.png" 
 />
 
 ### 👋 Hey there, I'm a highschool student and aspiring developer
@@ -13,7 +13,7 @@
      <img align="left" alt="Discord"
           src="https://img.shields.io/badge/-Salmon%232355-5865F2?&style=flat-square&logo=discord&logoColor=white">
 </a>
-
+       
 <a href="https://open.spotify.com/user/7xiu2hms0kghfyn9b2iw91dms?si=QyYfNVUVQQ-E89r2sDZXHA">
     <img align="left" alt="Spotify" 
          src="https://img.shields.io/badge/-sam-1DB954?&style=flat-square&logo=spotify&logoColor=white">
@@ -34,7 +34,7 @@
 
 <a href="https://www.java.com/en/download/help/whatis_java.html">
     <img align="left" alt="Java" width="30px" height="30" 
-         src="https://github.com/Scherso/Scherso/blob/main/assets/java-seeklogo.com.svg">
+         src="https://github.com/Scherso/Scherso/blob/main/assets/java.svg">
 </a>
 
 <a href="https://www.gnu.org/software/bash/">
@@ -49,7 +49,7 @@
 
 <a href="https://www.typescriptlang.org/">
     <img align="left" alt="TypeScript" width="30" height="30" 
-         src="https://github.com/Scherso/Scherso/blob/main/assets/ts-logo-512.png" />
+         src="https://github.com/Scherso/Scherso/blob/main/assets/ts.png" />
 </a> 
 
 <br />
@@ -82,7 +82,7 @@
 
 <a href="https://www.freebsd.org/">
      <img align="left" alt="FreeBSD" width"25px" height="25"
-          src="https://github.com/Scherso/Scherso/blob/main/assets/1AA847E2-8D2C-41D9-B842-2DC6107374F9.png">
+          src="https://github.com/Scherso/Scherso/blob/main/assets/bsd.png">
 </a>
 
 <!---
