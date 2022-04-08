@@ -5,7 +5,11 @@
           src="https://github.com/Scherso/Scherso/blob/main/assets/Scherso.png" 
 />
 
-### 👋 Hey there, I'm a highschool student and aspiring developer
+<h3 align="left">
+     
+   👋 Hey there, I'm a highschool student and aspiring developer
+     
+</h3>
 
 <!--- Drawing the Spotify and Discord logos behind the page break, href is a link to the corresponding links. --->
 
@@ -24,7 +28,7 @@
 #### Hello, my name is Sam, and I'm an aspiring developer in the United States
 #### Feel free to add me on any of the socials linked
 
-<!--- I use FreeBSD, btw. --->
+<!--- I use Arch, btw. --->
 
 <br /> 
 
@@ -80,9 +84,9 @@
 <br />
 <br />
 
-<a href="https://www.freebsd.org/">
-     <img align="left" alt="FreeBSD" width"25px" height="25"
-          src="https://github.com/Scherso/Scherso/blob/main/assets/bsd.png">
+<a href="https://archlinux.org">
+     <img align="left" alt="Arch Linux" width"25px" height="25"
+          src="http://www.archlinux.org/logos/archlinux-icon-crystal-64.svg">
 </a>
 
 <!---
