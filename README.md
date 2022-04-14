@@ -68,10 +68,11 @@
 
 ---
 
-
+<!---
 <img align="right"
      src="https://github-readme-stats.vercel.app/api?username=Scherso&count_private=true&text_color=444E59&title_color=444E59#gh-light-mode-only"
 />
+--->
 
      
 <img align="right"
