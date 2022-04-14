@@ -74,12 +74,10 @@
 />
 --->
 
-     
 <img align="right"
      src="https://github-readme-stats.vercel.app/api?username=Scherso&border_color=2E343B&bg_color=0D1117&text_color=C9D1D9&title_color=C9D1D9&count_private=true#gh-dark-mode-only"
 />
-     
-     
+          
 ### What IDEs do I use?
 
 <a href="https://www.jetbrains.com/idea/">
