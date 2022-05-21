@@ -36,24 +36,10 @@
 
 ### What programming languages am I learning?
 
-<a href="https://www.java.com/en/download/help/whatis_java.html">
-     <img 
-         align="left" alt="Java" width="30px" height="30" 
-         src="https://github.com/Scherso/Scherso/blob/main/assets/java.svg"
-     />
-</a>
-
-<a href="https://www.gnu.org/software/bash/">
-     <img 
-         align="left" alt="Bash" width="30" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" 
-     />
-</a>
-
-<a href="https://javascript.com/">
-     <img 
-         align="left" alt="JavaScript" width="30" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" 
+<a href="https://kotlinlang.org/">
+     <img
+          align="left" alt="Kotlin" width="30" height="30"
+          src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"
      />
 </a>
 
@@ -63,6 +49,20 @@
          src="https://github.com/Scherso/Scherso/blob/main/assets/ts.png" 
      />
 </a> 
+
+<a href="https://www.cprogramming.com/">
+     <img
+          align="left" alt="C" width="30" height="30"
+          src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
+     />
+</a>
+
+<a href="https://www.java.com/en/download/help/whatis_java.html">
+     <img 
+         align="left" alt="Java" width="30px" height="30" 
+         src="https://github.com/Scherso/Scherso/blob/main/assets/java.svg"
+     />
+</a>
 
 <br />
 
@@ -101,10 +101,10 @@
 <br />
 <br />
 
-<a href="https://archlinux.org">
+<a href="https://gentoo.org">
      <img 
-          align="left" alt="Arch Linux" width"25px" height="25"
-          src="http://www.archlinux.org/logos/archlinux-icon-crystal-64.svg"
+          align="left" alt="Gentoo Linux" width="25"
+          src="https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo_Linux_logo_matte.svg"
      />
 </a>
 
