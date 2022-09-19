@@ -7,7 +7,7 @@
 
 <h3 align="left">
      
-   👋 Hey there, I'm a highschool student and aspiring developer
+   👋 Hey there, I'm a highschool student and software developer
      
 </h3>
 
