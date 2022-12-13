@@ -7,11 +7,9 @@
 
 <h3 align="left">
      
-   👋 Hey there, I'm a highschool student and software developer
+   👋 Hey there, I'm a highschool student and self-taught programmer
      
 </h3>
-
-<!--- Drawing the Spotify and Discord logos behind the page break, href is a link to the corresponding links. --->
 
 <a href="https://discordapp.com/users/492816296103378948">
      <img 
@@ -27,12 +25,15 @@
      />
 </a>
 
----
+<hr>
 
-#### Hello, my name is Sam, and I'm a software developer in the United States
-#### Feel free to add me on any of the socials linked
+<h4 align="left">
+     Hello, I'm Sam, and I'm a self-taught programmer from the United States. <br>
+     Feel Free to add me on any of the socials linked
+</h4>
 
-<br /> 
+<br />
+<br />
 
 ### What programming languages am I learning?
 
@@ -66,7 +67,7 @@
 
 <br />
 
----
+<hr>
 
 <!---
 <img align="right"
@@ -96,7 +97,7 @@
 
 <br />
 
----
+<hr>
 
 <br />
 <br />
