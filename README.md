@@ -7,7 +7,7 @@
 
 <h3 align="left">
 
-   👋 Hey there, I'm a highschool student and self-taught programmer
+   👋 Hello! 
 
 </h3>
 
@@ -28,7 +28,7 @@
 <hr>
 
 <h4 align="left">
-     Hello, I'm Sam, and I'm a self-taught programmer from the United States. <br>
+     I'm Sam, and I'm a self-taught programmer from the United States. <br>
      Feel Free to add me on any of the socials linked
 </h4>
 
