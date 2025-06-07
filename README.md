@@ -26,7 +26,7 @@
 <hr>
 
 <h4 align="left">
-     <br /> JVM developer, Security Research and Development, C and low level application, and Reverse Engineering. <br /> 
+     <br /> Security Research and Development, C and low level application, Hobbyist Reverse Engineering, JVM Developer <br /> 
 </h4>
 
 <!---
