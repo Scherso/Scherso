@@ -18,9 +18,9 @@
 
 <hr>
 
-Security Researcher, 
+Malaware Analyst,
 
-Hobbyist Reverse Engineer, 
+Hobbyist Reverse Engineer,
 
 Software Programmer and Developer (C, Rust, etc...), 
 
