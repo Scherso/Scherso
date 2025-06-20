@@ -6,7 +6,7 @@
 </a>
 
 <img
-     align="left" alt="Scherso" width="200px"
+     align="left" alt="Scherso" width="250px"
      src="/assets/Scherso.png"
 />
 
@@ -25,9 +25,13 @@
 
 <hr>
 
-<h4 align="left">
-     <br /> Security Research and Development, C and low level application, Hobbyist Reverse Engineering, JVM Developer <br /> 
-</h4>
+Security Researcher, 
+
+Hobbyist Reverse Engineer, 
+
+Software Programmer and Developer (C, Rust, etc...), 
+
+last and definitely least, JVM Developer.
 
 <!---
 Scherso/Scherso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
