@@ -1,13 +1,13 @@
 <a href="https://gentoo.org">
      <img
           align="right" alt="Gentoo Linux" width="25"
-          src="https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo_Linux_logo_matte.svg"
+          src="/assets/gentoo.svg"
      />
 </a>
 
 <img
-     align="left" alt="Avatar" width="200px"
-     src="https://github.com/Scherso/Scherso/blob/main/assets/Scherso.png"
+     align="left" alt="Scherso" width="200px"
+     src="/assets/Scherso.png"
 />
 
 <h3 align="left">
