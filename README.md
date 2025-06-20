@@ -16,13 +16,6 @@
 
 </h3>
 
-<a href="https://open.spotify.com/user/7xiu2hms0kghfyn9b2iw91dms?si=QyYfNVUVQQ-E89r2sDZXHA">
-     <img
-          align="left" alt="Spotify"
-          src="https://img.shields.io/badge/-sam-1DB954?&style=flat-square&logo=spotify&logoColor=white"
-     />
-</a>
-
 <hr>
 
 Security Researcher, 
