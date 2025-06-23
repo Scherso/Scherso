@@ -12,7 +12,7 @@
 
 <h3 align="left">
 
-   👋 Hello! I'm Sam, I'm studying CS @ RIT, I am a...
+   👋 Hello! I'm Sam, I am a...
 
 </h3>
 
