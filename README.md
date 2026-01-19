@@ -18,7 +18,7 @@
 
 <hr>
 
-Malaware Analyst,
+Malware Analyst,
 
 Hobbyist Reverse Engineer,
 
